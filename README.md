@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gq0y0murvsfdp71g?svg=true)](https://ci.appveyor.com/project/MKSInc/ahj-hw-6-dnd-1-trello)
+### [Gh-page](https://mksinc.github.io/AHJ-hw.-6-DnD.-1-Trello/)
 # 6. Домашнее задание к лекции «Работа с файлами, DnD»
 
 Правила сдачи задания:
