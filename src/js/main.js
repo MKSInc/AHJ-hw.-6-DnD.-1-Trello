@@ -1,2 +1,7 @@
-// eslint-disable-next-line no-console
-console.log('main.js run');
+import Board from './Board';
+
+const boardEl = document.querySelector('[data-widget="board"]');
+
+const board = new Board(boardEl);
+
+board.init();

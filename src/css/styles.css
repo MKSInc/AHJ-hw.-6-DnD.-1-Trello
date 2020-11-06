@@ -1,7 +1,15 @@
-body {
-  font-family: sans-serif;
-}
+@import "main.css";
+@import "board/board.css";
 
-h1, h2 {
-  text-align: center;
-}
+@import "board/btn/btn.css";
+@import "board/btn/btn_default.css";
+@import "board/btn/btn_plus.css";
+@import "board/btn/btn_success.css";
+
+@import "board/add-entity/add-entity.css";
+
+@import "board/column/column.css";
+@import "board/column/__card-btn.css";
+@import "board/column/__control-btn.css";
+
+@import "board/utility.css";
