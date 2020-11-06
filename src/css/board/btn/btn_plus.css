@@ -1,0 +1,17 @@
+.btn_plus {
+  position: relative;
+}
+
+.btn_plus::before {
+  content: '\271A';
+  position: relative;
+  font-size: 110%;
+  font-weight: lighter;
+  line-height: 100%;
+  color: #6b778c;
+  margin-right: 5px;
+}
+
+.btn_plus:hover::before {
+  color: #42526e;
+}

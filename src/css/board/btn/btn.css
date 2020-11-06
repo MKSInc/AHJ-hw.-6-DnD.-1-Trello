@@ -1,0 +1,13 @@
+.btn {
+  cursor: pointer;
+
+  font-size: 14px;
+  line-height: 100%;
+
+  border: none;
+  border-radius: 3px;
+}
+
+.btn:focus {
+  outline: none;
+}
